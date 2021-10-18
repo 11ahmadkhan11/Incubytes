@@ -1,4 +1,4 @@
-<h1> Hello, Mohammad Ahmad Khan </h1>
+<h1>Mohammad Ahmad Khan </h1>
 
 
 
